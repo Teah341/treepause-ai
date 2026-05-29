@@ -1,2 +1,48 @@
-# treepause-ai
-AI emotional visual generation project for sensitive people.
+树停AI（Treepause AI）
+
+一个面向高敏感人格与内向者的 AI 情绪影像生成项目。
+
+项目简介
+
+树停AI希望帮助那些：
+
+- 难以表达情绪的人
+- 经常内耗的人
+- 高敏感人格用户
+- 社交疲惫人群
+
+通过 AI：
+将情绪转化为：
+
+- 文案
+- 影像
+- 视觉表达
+
+当前功能
+
+- AI情绪文案生成
+- AI视觉Prompt生成
+- AI情绪海报生成
+- AI内容传播实验
+
+使用工具
+
+- ChatGPT
+- Claude
+- Coze
+- 即梦AI
+- 剪映
+
+项目目标
+
+探索：
+AI + 情绪 + 视觉表达
+在内容传播与用户陪伴方向的可能性。
+
+项目进度
+
+Day1：
+
+- 创建GitHub项目
+- 确定产品定位
+- 搭建基础工作流
